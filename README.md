@@ -1,5 +1,5 @@
 <h1 style="color: #5e9ca0;">HI,&nbsp; <span style="color: #cc99ff;">I AM KIMBERLLY!</span></h1>
-<h3 dir="auto" align="center"><span style="color: #5e9ca0;">A software engineer from Colombia</span></h3>
+<h3 dir="auto" align="center"><span style="color: #cc99ff;">A software engineer from Colombia</span></h3>
 <p style="text-align: center;"><span style="color: #5e9ca0;">passionate about learning and working with new technologies. I love the construction of innovative products that provide a solution to the different needs of society. </span></p>
 <h2 style="color: #2e6c80;">About me:</h2>
 <p><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="70" /></p>
