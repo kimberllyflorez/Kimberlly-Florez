@@ -7,7 +7,7 @@
 
 <h3 dir="auto" align="center">
     <span style="color: #5e9ca0;">
-        A software engineer from Colombia
+        Mobile Developer from Colombia
     </span>
 </h3>
 
@@ -23,13 +23,14 @@
 <p><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="70" /></p>
 
 <p>
-    Environmental engineer by profession, (yes, you read right, Environmental engineer) but one year ago i knew the world of software developent and
+    Environmental engineer by profession, (yes, you read right, Environmental engineer) but one year ago i knew the
+    world of software developent and
     mobile application development. It was love at first time. So then, i decided to become a Mobile developer.
     In my perspective i see programming as a way to help other people through the creation of solutions for the
     people&rsquo;s everyday needs.
 </p>
 <p>
-    I currently working with flutter cross-platform framework using Provider, Bloc for state managment, Firebase,
+    I currently working with Flutter cross-platform framework using Provider, Bloc for state managment, Firebase,
     Shared Preferences, clean code and git.
     Without a doubt the change has been challenging but nothing is easy and easy is not good.
 </p>
@@ -41,17 +42,31 @@
 </h2>
 
 <p align="center">
-    <img style="float: left;" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"
-        width="30" />
+    <a href="https://git-scm.com" target="_blank">
+        <img style="float: left;" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="30" />
+    </a>
     <span>&nbsp; &nbsp;</span>
-    <img style="float: left;" src="https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png"
-        width="25" />
+    <a href="httpS://flutter.dev" target="_blank">
+        <img style="float: left;" src="https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png"
+            width="25" />
+    </a>
     <span>&nbsp; &nbsp;</span>
-    <img style="float: left;"
-        src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Kotlin_Icon_2021.svg/512px-Kotlin_Icon_2021.svg.png?20210505134836"
-        width="30" />
+    <a href="https://developer.android.com" target="_blank">
+        <img style="float: left;"
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Android_robot.svg/1745px-Android_robot.svg.png"
+            width="25" />
+    </a>
     <span>&nbsp; &nbsp;</span>
-    <img style="float: left;" src="https://www.mikefal.net/wp-content/uploads/2016/05/logoAzureSql.png" width="30" />
+    <a href="https://kotlinlang.org" target="_blank">
+        <img style="float: left;"
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Kotlin_Icon_2021.svg/512px-Kotlin_Icon_2021.svg.png?20210505134836"
+            width="30" />
+    </a>
+    <span>&nbsp; &nbsp;</span>
+    <a href="" target="_blank">
+        <img style="float: left;" src="https://www.mikefal.net/wp-content/uploads/2016/05/logoAzureSql.png"
+            width="30" />
+    </a>
 </p>
 <h2 style="color: #2e6c80;">
     How to reach me:
