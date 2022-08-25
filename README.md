@@ -16,6 +16,6 @@
 </ol>
 <h2 style="color: #2e6c80;">How to reach me::</h2>
 <p>&nbsp; &nbsp;<span style="color: #cc99ff;">Contact me in Linked</span>👉🏼<a href="https://www.linkedin.com/in/kimberlly-cathalina-florez-sanchez-3ab8041b8/" rel="nofollow"><img src="https://brand.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" width="80" /></a></p>
-<p>&nbsp; &nbsp;<span style="color: #cc99ff;">Contact me in email</span>👉🏼<a href="https://www.linkedin.com/in/kimberlly-cathalina-florez-sanchez-3ab8041b8/" rel="nofollow"><img src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-4-1.png" width="40" /></a></p>
+<p>&nbsp; &nbsp;<span style="color: #cc99ff;">Contact me in email</span>👉🏼<a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJvnrVcmzFfbRlnmTwsldhmmkpdLWCWgsRLqVGlJrHMVsbCVJNLsNLxHlMfsQfJsVHvBllB" rel="nofollow"><img src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-4-1.png" width="40" /></a></p>
 <p>&nbsp;</p>
 <p><strong>&nbsp;</strong></p>
