@@ -1,5 +1,3 @@
-<html>
-
 <h1 style="color: #5e9ca0;">
     HI,
     <span style="color: #cc99ff;">
@@ -15,7 +13,7 @@
 
 <p style="text-align: center;">
     <span style="color: #5e9ca0;">
-        Passionate about learning and working with new technologies. I love the construction of innovative products that
+        Passionate about learning and working with new technologies. I love construct and innovative products that
         provide a solution to the different needs of society.
     </span>
 </p>
@@ -25,13 +23,13 @@
 <p><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="70" /></p>
 
 <p>
-    My name is Kimberlly Florez I am an environmental engineer by profession and six months ago I knew the world of
-    mobile application development and it was love at first sight, since then I decided to become a developer Mobil, in
-    my perspective I see programming as a way to help other people through the creation of mobile applications that meet
+    Environmental engineer by profession, (yes, you read right, Environmental engineer) but one year ago i knew the world of software developent and
+    mobile application development. It was love at first time. So then, i decided to become a Mobile developer.
+    In my perspective i see programming as a way to help other people through the creation of solutions for the
     people&rsquo;s everyday needs.
 </p>
 <p>
-    I currently work with flutter&rsquo;s cross-platform framework using Provider, Bloc for state managment, Firebase,
+    I currently working with flutter cross-platform framework using Provider, Bloc for state managment, Firebase,
     Shared Preferences, clean code and git.
     Without a doubt the change has been challenging but nothing is easy and easy is not good.
 </p>
@@ -80,5 +78,3 @@
         <img src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-4-1.png" width="40" />
     </a>
 </p>
-
-</html>
