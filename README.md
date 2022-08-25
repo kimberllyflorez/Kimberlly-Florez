@@ -57,7 +57,6 @@
     How to reach me:
 </h2>
 <p>
-    &nbsp; &nbsp;
     <span style="color: #cc99ff;">
         Contact me in Linked
     </span>
@@ -68,7 +67,6 @@
     </a>
 </p>
 <p>
-    &nbsp; &nbsp;
     <span style="color: #cc99ff;">
         Contact me in email
     </span>
