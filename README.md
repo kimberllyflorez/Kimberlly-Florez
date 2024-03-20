@@ -23,7 +23,7 @@
 <p><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="70" /></p>
 
 <p>
-    Environmental engineer by profession, (yes, you read right, Environmental engineer) but one year ago i knew the
+    Environmental engineer by profession, (yes, you read right, Environmental engineer) but two year ago i knew the
     world of software developent and
     mobile application development. It was love at first time. So then, i decided to become a Mobile developer.
     In my perspective i see programming as a way to help other people through the creation of solutions for the
